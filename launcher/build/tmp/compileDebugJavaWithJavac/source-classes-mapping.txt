@@ -1,0 +1,2 @@
+org/desperu/earth/BuildConfig.java
+ org.desperu.earth.BuildConfig
